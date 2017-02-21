@@ -1,4 +1,4 @@
-export const CreateBook = (book) => {
+export const createBook = (book) => {
   return {
     type: 'CREATE_BOOK',
     book
